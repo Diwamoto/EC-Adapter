@@ -1094,7 +1094,7 @@ U 1 1 6028D03C
 P 9200 4700
 F 0 "SW5" H 9200 5045 50  0000 C CNN
 F 1 "EC_SW" H 9200 4954 50  0000 C CNN
-F 2 "ecs-footprint:ecs_pad" H 9200 4863 50  0001 C CNN
+F 2 "ecs-footprint:ecs_pad" H 9200 4863 50  0000 C CNN
 F 3 "" H 9200 4700 50  0000 C CNN
 	1    9200 4700
 	1    0    0    -1  
@@ -1105,7 +1105,7 @@ U 1 1 6028FF52
 P 9200 5400
 F 0 "SW6" H 9200 5745 50  0000 C CNN
 F 1 "EC_SW" H 9200 5654 50  0000 C CNN
-F 2 "ecs-footprint:ecs_pad" H 9200 5563 50  0001 C CNN
+F 2 "ecs-footprint:ecs_pad" H 9200 5563 50  0000 C CNN
 F 3 "" H 9200 5400 50  0000 C CNN
 	1    9200 5400
 	1    0    0    -1  
@@ -1116,7 +1116,7 @@ U 1 1 602930BA
 P 8300 5400
 F 0 "SW4" H 8300 5745 50  0000 C CNN
 F 1 "EC_SW" H 8300 5654 50  0000 C CNN
-F 2 "ecs-footprint:ecs_pad" H 8300 5563 50  0001 C CNN
+F 2 "ecs-footprint:ecs_pad" H 8300 5563 50  0000 C CNN
 F 3 "" H 8300 5400 50  0000 C CNN
 	1    8300 5400
 	1    0    0    -1  
